@@ -1,6 +1,6 @@
 Name:		texlive-yb-book
-Version:	64586
-Release:	2
+Version:	67188
+Release:	1
 Summary:	Template for YB Branded Books
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/yb-book
