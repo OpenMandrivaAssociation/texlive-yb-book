@@ -1,5 +1,5 @@
 Name:		texlive-yb-book
-Version:	67188
+Version:	70740
 Release:	1
 Summary:	Template for YB Branded Books
 Group:		Publishing
