@@ -3,7 +3,7 @@ Version:	70740
 Release:	1
 Summary:	Template for YB Branded Books
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/yb-book
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/yb-book
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/yb-book.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/yb-book.doc.r%{version}.tar.xz
